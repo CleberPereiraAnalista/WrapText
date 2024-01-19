@@ -1,7 +1,7 @@
 
-# wraptext
+# wrap_text
 
-**wraptext** é um simples quebrador de texto para qualquer ocasião escrito em Python.
+**wrap_text** é um simples quebrador de texto para qualquer ocasião escrito em Python.
 Insere quebras de linha.
 
 ## Funções
@@ -15,6 +15,8 @@ Pode receber 2 (dois) valores:
 
 
 ## Exemplos:
+	
+	from singular_wrap_text.singular_wrap_text import WrapText
 	
 	meu_texto = "Escrevendo um código numa única linha para testá-lo com a função WrapText."
 	
