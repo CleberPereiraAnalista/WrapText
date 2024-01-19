@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: wraptext
+Version: 1.0.0
+Summary: Um simples quebrador de texto para qualquer ocasião escrito em Python.
+Home-page: https://github.com/CleberPereiraAnalista/WrapText.git
+Author: Cleber Almeida Pereira
+Author-email: cleber.ap.ads@gmail.com
+License: MIT
+Keywords: quebra-de-linha wrap
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+License-File: LICENSE.txt
+
+Um simples quebrador de texto, com função de receber um textoe inserir uma quebra de linha a cada 50 caracteres, ou no primeiro espaço branco antes do caractere localizado na posição50, ou conforme o comprimento especificado.
